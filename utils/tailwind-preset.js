@@ -52,11 +52,11 @@ module.exports = {
       theme: {
         bejamas: {
           colors: {
-            primary: '#FF8585',
-            'gradient-1': '#7d7aff',
-            'gradient-2': '#2121E2',
-            'gradient-3': '#FF76B8',
-            'gradient-4': '#001AFF',
+            primary: '#f87aff',
+            'gradient-1': '#f87aff',
+            'gradient-2': '#ff7ac5',
+            'gradient-3': '#edff7a',
+            'gradient-4': '#ef7aff',
           },
         },
       },
